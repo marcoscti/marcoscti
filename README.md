@@ -1,5 +1,6 @@
 ### Olá seja bem vindo ao meu perfil 👋
-
+Meu Nome é Marcos Cordeiro!
+Sou Analista de Sistemas e estudo Desenvolvimento WEB.
 <!--
 **marcoscti/marcoscti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
