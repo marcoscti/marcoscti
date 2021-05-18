@@ -1,12 +1,12 @@
 # Bem vindo ao meu perfil 👋
 
-## :boy: Marcos Cordeiro @marcoscti
+## :boy: Marcos Cordeiro _@marcoscti_
 
-:mortar_board:Tecnologia Em Análise e Desenvolvimento de Sistemas- (FACNET- Anhanguera-DF)- 2020
+* :mortar_board:Tecnologia Em Análise e Desenvolvimento de Sistemas- (FACNET- Anhanguera-DF)- 2020
 
-:mortar_board: Técnico em Informática ETB (Escola Técnica de Brasília-DF) 2018
+* :mortar_board: Técnico em Informática ETB (Escola Técnica de Brasília-DF) 2018
 
-:heart:Instrutor de Tecnologia
+* :heart:Instrutor de Tecnologia
 
 ## :star:Estudante de Desenvolvimento WEB
 
