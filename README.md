@@ -7,7 +7,7 @@
 * :mortar_board: Técnico em Informática ETB (Escola Técnica de Brasília-DF) 2018
 
 * :heart:Instrutor de Tecnologia
-*
+
 # :star:Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"/>
 # :star:FronEnd
