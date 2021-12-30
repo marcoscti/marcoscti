@@ -1,5 +1,7 @@
 # :boy: Backend DEV _@marcoscti_
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoscti&show_icons=true&theme=radical)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</p>
 ## Formação Acadêmica
 * :mortar_board:Tecnologia Em Análise e Desenvolvimento de Sistemas- (FACNET- Anhanguera-DF)- 2020
 * :mortar_board: Técnico em Informática ETB (Escola Técnica de Brasília-DF) 2018
