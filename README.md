@@ -10,7 +10,7 @@
 # Linguagens e Ferramentas
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge" />
