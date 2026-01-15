@@ -1,38 +1,44 @@
 # 👋 Olá, eu sou o **Marcos Cordeiro**
-### 💻 Desenvolvedor Web | Especialista em WordPress & Soluções Sob Medida
+### 💻 Desenvolvedor Web | WordPress, APIs & Soluções Sob Medida
 
-Sou desenvolvedor web com foco em **WordPress profissional**, criação de **plugins personalizados**, **temas sob medida** e soluções web escaláveis para instituições, empresas e projetos de médio e grande porte.
+Sou desenvolvedor web com foco em **WordPress profissional**, **criação de APIs** e desenvolvimento de **soluções personalizadas** para sites institucionais, sistemas administrativos e integrações entre plataformas.
 
-Tenho forte atuação em **frontend, backend e integrações**, sempre priorizando **performance, segurança, SEO e experiência do usuário**.
+Atuo desde a arquitetura até a implementação, priorizando **organização de dados, segurança, performance e manutenibilidade**.
 
 ---
 
-## 🧠 Principais Especialidades
+## 🧠 Áreas de Atuação
 
-### 🧩 WordPress (Meu foco principal)
+### 🧩 WordPress Avançado
 - Desenvolvimento de **plugins personalizados**
 - Criação de **Custom Post Types (CPT)**
-- Integração avançada com **ACF (Advanced Custom Fields)**
-- Shortcodes dinâmicos e blocos personalizados
-- Temas customizados (sem page builders pesados)
+- Integração profunda com **ACF (Advanced Custom Fields)**
+- Shortcodes e endpoints personalizados
 - Painéis administrativos sob medida
-- Boas práticas de segurança e performance
+- Temas customizados (sem page builders)
 - SEO técnico (estrutura, sitemap, Open Graph, Schema)
-- Atualização de plugins via **GitHub (sem .zip manual)**
+- Atualização de plugins via **GitHub**
+- Boas práticas de segurança e performance
+
+### 🔌 APIs & Integrações (Ponto forte)
+- Criação de **APIs REST em PHP**
+- Uso e extensão da **WordPress REST API**
+- Desenvolvimento de endpoints personalizados
+- Integração entre WordPress e sistemas externos
+- Consumo de APIs de terceiros
+- Autenticação (tokens, chaves, permissões)
+- Padronização de respostas e versionamento
+- Integrações com painéis administrativos
 
 ### 🎨 Frontend
 - HTML5, CSS3, Sass
 - JavaScript / TypeScript
-- UX focado em clareza e acessibilidade
-- Layouts responsivos e institucionais
+- Interfaces responsivas e acessíveis
+- Foco em clareza e usabilidade
 
-### ⚙️ Backend
+### ⚙️ Backend & Infra
 - PHP (WordPress e Laravel)
-- Node.js (quando necessário)
-- APIs REST
-- Integrações com serviços externos
-
-### 🗄️ Banco de Dados & Infra
+- Node.js (quando aplicável)
 - MySQL
 - Docker (ambientes de desenvolvimento)
 - Git / GitHub
@@ -40,32 +46,30 @@ Tenho forte atuação em **frontend, backend e integrações**, sempre priorizan
 
 ---
 
-## 🏗️ Tipos de Projetos que Desenvolvo
+## 🏗️ Tipos de Soluções que Desenvolvo
 
-- 🌐 Sites institucionais e governamentais
-- 🏥 Portais de saúde e gestão pública
-- 🧩 Plugins WordPress sob demanda
-- 📊 Sistemas administrativos internos
-- 🚀 Landing pages otimizadas para conversão
-- 🔌 Integrações com APIs externas
+- 🌐 Sites institucionais e portais corporativos
+- 🏥 Sistemas e portais na área da saúde
+- 🧩 Plugins WordPress orientados a dados
+- 🔌 APIs para consumo por sites, apps e sistemas internos
+- 📊 Dashboards administrativos
+- 🚀 Integrações entre múltiplas plataformas
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Exemplos de Projetos e Experiência
 
-- **Plugins WordPress personalizados**  
-  CRUDs administrativos, shortcodes, filtros avançados, integrações com ACF e APIs
+- APIs personalizadas para WordPress  
+- Sistemas administrativos com CRUD completo  
+- Integração de dados entre WordPress e sistemas externos  
+- Plugins com regras de negócio específicas  
+- Estruturação de dados para portais institucionais  
 
-- **Sistemas institucionais**  
-  Estruturação de dados, unidades de atendimento, painéis administrativos e exibição dinâmica no front-end
+*(Projetos públicos e privados, com foco em escalabilidade e manutenção a longo prazo)*
 
-- **Ferramentas Web**
-  - Abrir WhatsApp sem salvar contato
-  - Aplicações JS e PHP sob medida
+---
 
-*(Em breve: documentação e demos públicas dos principais projetos)*
-
-## 🌐 Onde me encontrar
+## 🌐 Contato & Presença Online
 
 - 🔗 **Site:** https://www.marcoscti.dev  
 - 💼 **LinkedIn:** https://linkedin.com/in/marcoscti  
@@ -76,13 +80,14 @@ Tenho forte atuação em **frontend, backend e integrações**, sempre priorizan
 
 ## 🚀 Sobre mim
 
-Gosto de transformar **necessidades reais em soluções técnicas bem estruturadas**.  
-Tenho perfil analítico, foco em código limpo e valorizo projetos bem pensados, documentados e sustentáveis.
+Trabalho transformando **necessidades reais em soluções técnicas bem estruturadas**, com atenção à arquitetura, organização de código e evolução contínua dos projetos.
+
+Tenho experiência em ambientes institucionais, sistemas com grande volume de dados e projetos que exigem **confiabilidade e clareza técnica**.
 
 Estou aberto a:
 - Projetos freelance
 - Contratos recorrentes
-- Colaborações técnicas
-- Desenvolvimento de plugins WordPress profissionais
+- Desenvolvimento de plugins
+- Criação e manutenção de APIs
 
-💬 Se tiver uma ideia ou problema para resolver, vamos conversar.
+💬 Se você precisa integrar sistemas ou estruturar dados com segurança e eficiência, podemos conversar.
