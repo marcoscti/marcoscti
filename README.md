@@ -65,17 +65,6 @@ Tenho forte atuação em **frontend, backend e integrações**, sempre priorizan
 
 *(Em breve: documentação e demos públicas dos principais projetos)*
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="220" src="https://github-readme-stats.vercel.app/api?username=marcoscti&show_icons=true&theme=radical" />
-  <img width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscti&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 - 🔗 **Site:** https://www.marcoscti.dev  
