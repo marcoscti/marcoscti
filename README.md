@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o **Marcos Cordeiro**
-### 💻 Desenvolvedor Web | WordPress, APIs & Soluções Sob Medida
+### 💻 Desenvolvedor Web
 
-Sou desenvolvedor web com foco em **WordPress profissional**, **criação de APIs** e desenvolvimento de **soluções personalizadas** para sites institucionais, sistemas administrativos e integrações entre plataformas.
-
-Atuo desde a arquitetura até a implementação, priorizando **organização de dados, segurança, performance e manutenibilidade**.
+Desenvolvedor Web com mais de 5 anos de experiência, especializado em soluções para e-commerce com VTEX e desenvolvimento full-stack escalável. Forte atuação com PHP, Wordpress, JavaScript, TypeScript, React, HTML e CSS. Experiência com projetos de grande porte, atuo também com automações utilizando Gulp, Sass, Webpack e versionamento com Git e Bitbucket. Familiaridade com metodologias ágeis como Kanban e Scrum.
 
 ---
 
@@ -20,21 +18,11 @@ Atuo desde a arquitetura até a implementação, priorizando **organização de 
 - Atualização de plugins via **GitHub**
 - Boas práticas de segurança e performance
 
-### 🔌 APIs & Integrações (Ponto forte)
-- Criação de **APIs REST em PHP**
-- Uso e extensão da **WordPress REST API**
-- Desenvolvimento de endpoints personalizados
-- Integração entre WordPress e sistemas externos
-- Consumo de APIs de terceiros
-- Autenticação (tokens, chaves, permissões)
-- Padronização de respostas e versionamento
-- Integrações com painéis administrativos
-
 ### 🎨 Frontend
 - HTML5, CSS3, Sass
 - JavaScript / TypeScript
-- Interfaces responsivas e acessíveis
-- Foco em clareza e usabilidade
+- React JS, React Native
+- Bootstrap
 
 ### ⚙️ Backend & Infra
 - PHP (WordPress e Laravel)
@@ -43,6 +31,7 @@ Atuo desde a arquitetura até a implementação, priorizando **organização de 
 - Docker (ambientes de desenvolvimento)
 - Git / GitHub
 - Linux
+- Windows Server
 
 ---
 
@@ -54,19 +43,6 @@ Atuo desde a arquitetura até a implementação, priorizando **organização de 
 - 🔌 APIs para consumo por sites, apps e sistemas internos
 - 📊 Dashboards administrativos
 - 🚀 Integrações entre múltiplas plataformas
-
----
-
-## 📌 Exemplos de Projetos e Experiência
-
-- APIs personalizadas para WordPress  
-- Sistemas administrativos com CRUD completo  
-- Integração de dados entre WordPress e sistemas externos  
-- Plugins com regras de negócio específicas  
-- Estruturação de dados para portais institucionais  
-
-*(Projetos públicos e privados, com foco em escalabilidade e manutenção a longo prazo)*
-
 ---
 
 ## 🌐 Contato & Presença Online
@@ -74,15 +50,7 @@ Atuo desde a arquitetura até a implementação, priorizando **organização de 
 - 🔗 **Site:** https://www.marcoscti.dev  
 - 💼 **LinkedIn:** https://linkedin.com/in/marcoscti  
 - 📸 **Instagram:** https://instagram.com/marcoscti  
-- 🧑‍💻 **GitHub:** https://github.com/marcoscti  
-
----
-
-## 🚀 Sobre mim
-
-Trabalho transformando **necessidades reais em soluções técnicas bem estruturadas**, com atenção à arquitetura, organização de código e evolução contínua dos projetos.
-
-Tenho experiência em ambientes institucionais, sistemas com grande volume de dados e projetos que exigem **confiabilidade e clareza técnica**.
+- 🧑‍💻 **GitHub:** https://github.com/marcoscti
 
 Estou aberto a:
 - Projetos freelance
